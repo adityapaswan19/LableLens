@@ -1,4 +1,4 @@
-# LableLens — Legal Metrology Compliance Screening
+# LableLens : Legal Metrology Compliance Screening
 
 LableLens is an AI-assisted packaged-commodity compliance screening platform. It combines physical-package and e-commerce evidence extraction with a versioned Legal Metrology ruleset, while clearly separating confirmed findings from evidence that still requires human review.
 
